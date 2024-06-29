@@ -5,8 +5,8 @@
 - resources:
     cpu: true
     memory: true
+    cputemp: true
     disk:
-      - /
       - /data
 
 - search:
